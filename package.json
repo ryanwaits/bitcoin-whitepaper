@@ -5,6 +5,7 @@
   "description": "Read the Bitcoin Whitepaper",
   "icon": "btc-icon.png",
   "author": "ryanwaits",
+  "version": "1.0.0",
   "categories": [
     "Data",
     "Documentation"
